@@ -105,6 +105,7 @@ namespace Demo02
 
             #endregion
 
+
             #region Not Binding!
             // Binding
             // RefParent ---> ObjChild
@@ -166,7 +167,6 @@ namespace Demo02
 
 
             #endregion
-
         }
     }
 }
