@@ -24,7 +24,6 @@ namespace Demo02.Overriding
             Console.WriteLine("Fun01 from typeB");
         }
 
-
         //Dynamic Binding
         //CLR will bind the function call based on the object not the reference type
         //At runtime

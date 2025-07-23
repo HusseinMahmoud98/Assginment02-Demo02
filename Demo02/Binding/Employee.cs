@@ -17,7 +17,6 @@ namespace Demo02.Binding
         {
             Console.WriteLine("I'm an Employee");
         }
-
         public virtual void Fun02()
         {
             Console.WriteLine($"Salary : ???");
