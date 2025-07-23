@@ -12,6 +12,7 @@ namespace Common
         internal int B;
         public   int C;
 
+
         private protected  int X;
         protected          int Y;
         internal protected int Z;
